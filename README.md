@@ -1,6 +1,21 @@
 # Vertex trading website
  A full stack trading website
 
+## Features
+
+- **User Registration and Login:** Secure user authentication and authorization.
+- **Real-time Data:** Access to live market data and stock prices.- **Trade Execution:** Buy and sell stocks with ease.
+- **Analytics and Insights:** Get insights into market trends and personal performance.
+- **User-friendly Interface:** Simple and intuitive design for a smooth user experience.
+
+## Technologies Used
+
+- **Frontend:** HTML, CSS, JavaScript, React.js
+- **Backend:** Node.js, Express.js
+- **Database:** MongoDB
+- **APIs:** Integration with third-party financial data APIs
+- **Hosting:** Deployed on platforms like AWS or Heroku
+
 ## Installation
 
 1. Clone the repository to your local machine.
